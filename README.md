@@ -34,5 +34,5 @@
         </a>
 </p>
     ---
-https://visitcount.itsvg.in/api?id=Longkovuichutnao&color=0
+<img src="https://visitcount.itsvg.in/api?id=Longkovuichutnao&color=0">
     
