@@ -9,6 +9,17 @@
 <div align="left">
 	<h2><b>Hi there, I'm Tran Dinh Duy Long</b> 👋</h2> <br>
 	<p align="left">
+        <a href="https://www.facebook.com/longkvui" target="blank">
+                <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="">
+        </a>
+        <a href="mailto:tranlong280403@gmail.com" target="blank">
+                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
+        </a>
+        <a href="https://www.instagram.com/lwng284/" target="blank">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="">
+        </a>
+</p>
+	<p align="left">
 	<b>- I am a 2nd year student at FPT University, I am a person who loves to learn and tinker with code.</b> <br>
 		<br>
 	<b>- I'm a football enthusiast, like to listen to ballad or indie music but my mind is not too sad (sometimes...) hahaha... Just a brief introduction, thank you for visiting my github.</b> 
@@ -20,17 +31,5 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longkovuichutnao&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 <br>
-<h2 align="center">🌐 Socials Networks 🌐</h2>
-<p align="center">
-        <a href="https://www.facebook.com/longkvui" target="blank">
-                <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="">
-        </a>
-        <a href="mailto:tranlong280403@gmail.com" target="blank">
-                <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
-        </a>
-        <a href="https://www.instagram.com/lwng284/" target="blank">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="">
-        </a>
-</p>
 <img src="https://visitcount.itsvg.in/api?id=Longkovuichutnao&color=0">
 
