@@ -4,7 +4,7 @@
 <h3 align="center">Tớ là Duy Long, tớ là một con người bình thường và sống một cuộc đời bình thường.</h3>
 &nbsp;
 <div align="center">
-        <img src="[https://64.media.tumblr.com/0c2fe1449ca9da56699b18ab7bb7923f/ab3d39a90d95e1ad-56/s1280x1920/a77ab2387afd1227f4e565f4229199f4f6055ee0.gif](https://64.media.tumblr.com/14fb780c96522aafaf4a603e592da18f/e6e76c962a86b9ca-5a/s640x960/f3819527c9b314bd52517d39ec65ea6bdb2751a9.gif)">
+        <img src="https://64.media.tumblr.com/be37681517ac3ba3031df94cb45711df/tumblr_puajrkcXxv1tgzy56o1_1280.gif">
 </div>
 &nbsp;
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
