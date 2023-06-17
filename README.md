@@ -34,5 +34,5 @@
         </a>
 </p>
     ---
-[![](https://visitcount.itsvg.in/api?id=Longkovuichutnao&label=Visitors&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
+https://visitcount.itsvg.in/api?id=Longkovuichutnao&color=0
     
