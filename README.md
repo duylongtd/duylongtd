@@ -1,14 +1,14 @@
 <h1 align="center" width="25px">
         <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=55B4B0&width=435&lines=XAO+CH%C3%8CN+XIN+CH%C3%80O+%3E.%3C+" alt="Typing SVG" /></a>
 </h1>
-### 👋 Hi there, I'm Tran Dinh Duy Long.
 &nbsp;
 <div align="center">
         <img src="https://64.media.tumblr.com/be37681517ac3ba3031df94cb45711df/tumblr_puajrkcXxv1tgzy56o1_1280.gif">
 </div>
 &nbsp;
-- I am a 2nd year student at FPT University, I am a person who loves to learn and tinker with code.
-- I'm a football enthusiast, like to listen to ballad or indie music but my mind is not too sad (sometimes...) hahaha, just a brief introduction, thank you for visiting my github.
+### 👋 Hi there, I'm Tran Dinh Duy Long. <br>
+- I am a 2nd year student at FPT University, I am a person who loves to learn and tinker with code. <br>
+- I'm a football enthusiast, like to listen to ballad or indie music but my mind is not too sad (sometimes...) hahaha, just a brief introduction, thank you for visiting my github. <br>
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
 <div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Longkovuichutnao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight"/>
