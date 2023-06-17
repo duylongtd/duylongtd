@@ -6,10 +6,13 @@
         <img src="https://64.media.tumblr.com/be37681517ac3ba3031df94cb45711df/tumblr_puajrkcXxv1tgzy56o1_1280.gif">
 </div>
 &nbsp;
-<div align="center">
-	👋 Hi there, I'm Tran Dinh Duy Long. <br>
-	- <b>I am a 2nd year student at FPT University, I am a person who loves to learn and tinker with code.</b> <br>
-	- <b>I'm a football enthusiast, like to listen to ballad or indie music but my mind is not too sad (sometimes...) hahaha, just a brief introduction, thank you for visiting my github.</b> <br>
+<div align="left">
+	<h2><b>Hi there, I'm Tran Dinh Duy Long</b> 👋</h2> <br>
+	<p align="left">
+	<b>- I am a 2nd year student at FPT University, I am a person who loves to learn and tinker with code.</b> <br>
+		<br>
+	<b>- I'm a football enthusiast, like to listen to ballad or indie music but my mind is not too sad (sometimes...) hahaha... Just a brief introduction, thank you for visiting my github.</b> 
+	</p>
 </div>
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
 <div align="center">
@@ -30,4 +33,4 @@
         </a>
 </p>
 <img src="https://visitcount.itsvg.in/api?id=Longkovuichutnao&color=0">
-    
+
