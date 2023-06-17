@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Tớ là Duy Long, tớ là một con người bình thường và sống một cuộc đời bình thường.</h3>
 <div align="center">
-        [Imgur](https://i.imgur.com/6linoDJ.gifv)
+        <a href="https://imgur.com/6linoDJ"><img src="https://i.imgur.com/6linoDJ.gif" title="source: imgur.com" /></a>
 </div>
 <br>
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
