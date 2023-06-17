@@ -6,6 +6,7 @@
 <div align="center">
         <img src="https://64.media.tumblr.com/0c2fe1449ca9da56699b18ab7bb7923f/ab3d39a90d95e1ad-56/s1280x1920/a77ab2387afd1227f4e565f4229199f4f6055ee0.gif">
 </div>
+![](https://64.media.tumblr.com/0c2fe1449ca9da56699b18ab7bb7923f/ab3d39a90d95e1ad-56/s1280x1920/a77ab2387afd1227f4e565f4229199f4f6055ee0.gif)
 &nbsp;
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
 <div align="center">
