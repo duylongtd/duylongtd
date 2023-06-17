@@ -23,13 +23,13 @@
 <br>
 <h2 align="center">🌐 Socials Networks 🌐</h2>
 <p align="center">
-        <a href="https://www.facebook.com/longkvui" target="_blank">
+        <a href="https://www.facebook.com/longkvui" target="blank">
                 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="">
         </a>
-        <a href="mailto:tranlong280403@gmail.com" target="_blank">
+        <a href="mailto:tranlong280403@gmail.com" target="blank">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
         </a>
-        <a href="https://www.instagram.com/lwng284/" target="_blank">
+        <a href="https://www.instagram.com/lwng284/" target="blank">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="">
         </a>
 </p>
