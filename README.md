@@ -9,17 +9,8 @@
 &nbsp;
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
 <div align="center">
- &nbsp;
-        <a href="#">
-                <img width="365" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longkovuichutnao&&layout=compact&theme=react&border_color=61dafb&hide_border=true"
-                alt="">
-        </a>
-        &nbsp;
-        &nbsp;
-        <a href="#">
-                <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=Longkovuichutnao&show_icons=true&theme=tokyonight"
-                alt="">
-        </a>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Longkovuichutnao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longkovuichutnao&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 <br>
 <h2 align="center">🌐 Socials Networks 🌐</h2>
