@@ -2,10 +2,11 @@
         <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=55B4B0&width=435&lines=XAO+CH%C3%8CN+XIN+CH%C3%80O+%3E.%3C+" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Tớ là Duy Long, tớ là một con người bình thường và sống một cuộc đời bình thường.</h3>
+&nbsp;
 <div align="center">
-        <img src="https://64.media.tumblr.com/14fb780c96522aafaf4a603e592da18f/e6e76c962a86b9ca-5a/s640x960/f3819527c9b314bd52517d39ec65ea6bdb2751a9.gif" alt="Alt Text">
+        <img src="https://64.media.tumblr.com/14fb780c96522aafaf4a603e592da18f/e6e76c962a86b9ca-5a/s640x960/f3819527c9b314bd52517d39ec65ea6bdb2751a9.gif">
 </div>
-<br>
+&nbsp;
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
 <div align="center">
  &nbsp;
