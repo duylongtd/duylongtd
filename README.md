@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">Tớ là Duy Long, tớ là một con người bình thường và sống một cuộc đời bình thường.</h3>
 <div align="center">
-    <img src="https://64.media.tumblr.com/0c2fe1449ca9da56699b18ab7bb7923f/ab3d39a90d95e1ad-56/s1280x1920/a77ab2387afd1227f4e565f4229199f4f6055ee0.gif">
+    <img src="https://64.media.tumblr.com/d10e3874f350fd1a71fcb0a245b4919d/a1e5fc41e039b8b5-82/s1280x1920/851167185cfbaf928ef80de6bf7dc43e489248ff.gifv">
 </div>
 <br>
 <h2 align="center">  🐼 GitHub Stats 🐈</h2>
@@ -33,6 +33,5 @@
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="">
         </a>
 </p>
-    ---
 <img src="https://visitcount.itsvg.in/api?id=Longkovuichutnao&color=0">
     
