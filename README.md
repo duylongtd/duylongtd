@@ -21,5 +21,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longkovuichutnao&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
-![Visit Count](https://visitcount.itsvg.in/api?id=Longkovuichutnao&color=0)
+![](https://komarev.com/ghpvc/?username=Longkovuichutnao&label=VISITOR+VIEW&color=ff69b4)
 
