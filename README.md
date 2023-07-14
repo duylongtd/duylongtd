@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=55B4B0&width=435&lines=XAO+CH%C3%8CN+XIN+CH%C3%80O+%3E.%3C+" alt="Typing SVG" />
 </p>
 
-![GIF](https://64.media.tumblr.com/0f171da8909e28475f54bec675b8e03e/f02de281d58bb33d-2e/s1280x1920/71d36d8ff8b4acaa0acc1722ac0216087ce0a480.gif)
+![GIF](https://64.media.tumblr.com/be37681517ac3ba3031df94cb45711df/tumblr_puajrkcXxv1tgzy56o1_1280.gif)
 
 ## Hi there, I'm Tran Dinh Duy Long 👋
 
