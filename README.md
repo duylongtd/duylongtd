@@ -12,7 +12,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/longkvui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranlong280403@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lwng284/)
-[![View - duylongtd CV](https://img.shields.io/badge/View-duylongtd_CV-2ea44f?style=for-the-badge&logo=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F140030%2Fisolated%2Fpreview%2F521136d25b37386f49728b93d2e4e6fa-cv-icon.png&logoColor=white)](https://drive.google.com/file/d/1sV9xs0nPdAYXiCagffXFzqboJ8uuyfNo/view)
+[![View - duylongtd CV](https://img.shields.io/badge/View-duylongtd_CV-2ea44f?style=for-the-badge&logo=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F140030%2Fisolated%2Fpreview%2F521136d25b37386f49728b93d2e4e6fa-cv-icon.png&logoColor=white)](https://drive.google.com/file/d/14bMZN006bWcZxtRENY8r10wNB_K9jLc6/view?usp=sharing)
 
 
 - I am a 3nd-year student at `FPT University`, and I am a person who loves to learn and tinker with code.
