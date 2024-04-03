@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=55B4B0&width=435&lines=XAO+CH%C3%8CN+XIN+CH%C3%80O+%3E.%3C+" alt="Typing SVG" />
 </p>
 
-<div>
-  <img src="https://64.media.tumblr.com/971f9f2f8753acb0fd8568b24afd1e0a/24e405a8028c52e5-84/s2048x3072/1b4d0d4e9f67cd8da66dc72e3986d7fd198a03fe.gifv" style="height: 600px; width: 100%; object-fit: contain;">
-</div>
-
 ## Hi there, I'm Tran Dinh Duy Long 👋
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/longkvui)
