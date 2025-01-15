@@ -12,7 +12,7 @@
 
 
 - I am a 3nd-year student at `FPT University`, and I am a person who loves to learn and tinker with code.
-- My strength is `Java` language, I am looking for jobs related to this language. I can work full time or part time jobs.
+- My strength is `Java`, `Nodejs` backend language. Moreover I can use `ReactJS`, `AngularJS` to create layout website, I am looking for jobs related to this language. I can work full time or part time jobs.
 - I'm a `football enthusiast`, like to listen to `ballad` or `indie music`, but my mind is not too sad (sometimes) hahaha... Just a brief introduction. Thank you for visiting my `GitHub`.
     
   ```Java
@@ -32,7 +32,7 @@
     public class PersonalDetail {
   
       String name;
-      long age; //Declare the data type as `long` to expect to live long
+      long age;
       Gender gender;
       String university;
       boolean single;
@@ -74,6 +74,51 @@
       }
     }
   ```
+<h4 align="left">Programming languages</h4>
+
+<p align="left">
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+<h4 align="left">Frameworks and libraries</h4>
+
+<p align="left">
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162.svg?logo=cachet&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB.svg?logo=react&logoColor=black"></a>
+</p>
+
+<h4 align="left">Databases and cloud hosting</h4>
+
+<p align="left">
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-430098.svg?logo=render&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+</p>
+
+<h4 align="left">Software and tools</h4>
+
+<p align="left">
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=blue"></a>
+    <a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372E29.svg?logo=dbeaver&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+<br /> 
 
 ## 🐼 GitHub Stats 🐈
 <p align="center">
